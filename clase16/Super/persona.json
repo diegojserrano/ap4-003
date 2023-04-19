@@ -1,0 +1,21 @@
+{
+    "documento":2452345,
+    "nombre": "asdf asdf",
+    "telefonos": [
+        {
+            "tipo" : "Fijo",
+            "numero": "4563456",
+            "horario": "8-23"
+        },
+        {
+            "tipo" : "Celular",
+            "numero": "234234",
+            "horario": "0-24"
+        },
+        {
+            "tipo" : "Laboral",
+            "numero": "06787564634",
+            "horario": "9-18"
+        }
+    ]
+}

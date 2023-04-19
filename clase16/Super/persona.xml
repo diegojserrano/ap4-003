@@ -1,0 +1,21 @@
+<persona>
+    <documento>2452345</documento>
+    <nombre>asdf asdf</nombre>
+    <telefonos>
+        <telefono>
+            <tipo>Fijo</tipo>
+            <numero>4563456</numero>
+            <horario>8-23</horario>
+        </telefono>
+        <telefono>
+            <tipo>Celular</tipo>
+            <numero>234234</numero>
+            <horario>0-24</horario>
+        </telefono>
+        <telefono>
+            <tipo>Laboral</tipo>
+            <numero>06787564634</numero>
+            <horario>9-18</horario>
+        </telefono>
+    </telefonos>
+</persona>
